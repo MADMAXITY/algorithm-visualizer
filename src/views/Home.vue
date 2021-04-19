@@ -9,6 +9,11 @@
         <router-link to="/sudoku-solver"
             ><div class="items-of-vis">Sudoku Solver</div></router-link
         >
+        <router-link to="/dijkshtra"
+            ><div class="items-of-vis">
+                Dijkshtra Shortest Path
+            </div></router-link
+        >
         <router-link to="/a-star-pathfinder"
             ><div class="items-of-vis">A* Pathfinder</div></router-link
         >
